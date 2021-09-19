@@ -3,7 +3,7 @@
 
 How access to technology promotes family nutrition
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
